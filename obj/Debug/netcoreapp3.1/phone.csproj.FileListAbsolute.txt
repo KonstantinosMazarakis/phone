@@ -1,0 +1,13 @@
+C:\CodingDojo\c#\assigments\phone\bin\Debug\netcoreapp3.1\phone.exe
+C:\CodingDojo\c#\assigments\phone\bin\Debug\netcoreapp3.1\phone.deps.json
+C:\CodingDojo\c#\assigments\phone\bin\Debug\netcoreapp3.1\phone.runtimeconfig.json
+C:\CodingDojo\c#\assigments\phone\bin\Debug\netcoreapp3.1\phone.runtimeconfig.dev.json
+C:\CodingDojo\c#\assigments\phone\bin\Debug\netcoreapp3.1\phone.dll
+C:\CodingDojo\c#\assigments\phone\bin\Debug\netcoreapp3.1\phone.pdb
+C:\CodingDojo\c#\assigments\phone\obj\Debug\netcoreapp3.1\phone.csprojAssemblyReference.cache
+C:\CodingDojo\c#\assigments\phone\obj\Debug\netcoreapp3.1\phone.AssemblyInfoInputs.cache
+C:\CodingDojo\c#\assigments\phone\obj\Debug\netcoreapp3.1\phone.AssemblyInfo.cs
+C:\CodingDojo\c#\assigments\phone\obj\Debug\netcoreapp3.1\phone.csproj.CoreCompileInputs.cache
+C:\CodingDojo\c#\assigments\phone\obj\Debug\netcoreapp3.1\phone.dll
+C:\CodingDojo\c#\assigments\phone\obj\Debug\netcoreapp3.1\phone.pdb
+C:\CodingDojo\c#\assigments\phone\obj\Debug\netcoreapp3.1\phone.genruntimeconfig.cache
