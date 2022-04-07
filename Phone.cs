@@ -43,14 +43,5 @@ public abstract class Phone
         }
     }
 
-    public string Ring()
-    {
-        return "dfs";
-    }
-
-        public string Unlock()
-    {
-        return "dfs";
-    }
 }
 
